@@ -1,6 +1,8 @@
 # Create a website in 10 minutes with chatGPT
 Code created using the free lecture "Create a website in 10 minutes with chatGPT" at Sparta Coding Club
 
+This is link [Sparta Coding Club](https://spartacodingclub.kr/online/special/photos?f_name=%ED%99%A9%EC%84%B1%EC%A4%80&f_uid=636f14e293cfb4e840905e83)
+
 1. Create the basic html skeleton.
 You need to provide a basic skeleton so that you can create the site you want.
 
@@ -208,4 +210,8 @@ If you have the knowledge to grasp the skeleton and some programming knowledge, 
 You can create a website in 10 minutes.
 
 For complete code, refer to index.html
+
+If you would like to listen to the free lecture, please use the link below.
+
+This is link [Sparta Coding Club](https://spartacodingclub.kr/online/special/photos?f_name=%ED%99%A9%EC%84%B1%EC%A4%80&f_uid=636f14e293cfb4e840905e83)
 
