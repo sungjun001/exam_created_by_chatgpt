@@ -1,4 +1,4 @@
-# exam_created_by_chatgpt
+# Create a website in 10 minutes with chatGPT
 Code created using the free lecture "Create a website in 10 minutes with chatGPT" at Sparta Coding Club
 
 1. Create the basic html skeleton.
